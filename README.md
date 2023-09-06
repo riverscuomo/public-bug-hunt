@@ -7,3 +7,6 @@ A place to file bug reports for all of my apps
 
 - Look through the existing issues to see if someone else reported your bug. If so, just chime there.
 
+## This is where you can file a bug report:
+https://github.com/riverscuomo/public-bug-hunt/issues/new/choose.
+
