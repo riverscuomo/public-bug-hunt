@@ -6,28 +6,17 @@ https://github.com/riverscuomo/public-bug-hunt/issues/new/choose.
 
 ## Before you file a bug report:
 - Look through the existing issues to see if someone else reported your bug. If so, just chime there.
-- Make sure you have the latest version of the app.
+To reopen a closed issue, delete this filter:
+![image](https://github.com/riverscuomo/public-bug-hunt/assets/24362267/9eea1b8e-3b43-488c-915a-7f100b3bfe5e)
 
-### 1.8.8
-Bugs fixed:
-- you couldn't log back in (spinning wheels)
-- Link created when sharing a playlist takes you to "Page not found"
-- Grey screen displayed when selecting New Releases, Like Songs playlists 
-- position of popup menu when right-clicking on a playlist in the library
-
-### 1.8.7
-- fixed bug where authenticated users were being redirected to the login screen
-
-### 1.8.6
-### 1.8.5
-- improved functionality on search results screen
-- better search results
-### 1.8.4
-- fuzzywuzzy player track search
-
-- For Weezify, it's located at the bottom of the profile screen:
+- Make sure you have the latest version of the app. For Weezify, it's located at the bottom of the profile screen:
 ![image](https://github.com/riverscuomo/public-bug-hunt/assets/24362267/b57c16ca-6d6e-4c89-964e-9e2ccf46c0d7)
 
+## Testing
+Please mark pass or fail in the relevant column so we don't duplicate our testing.
+https://docs.google.com/spreadsheets/d/1R3E5_1J1hV4G69DmIcNDV9Ji_iZuqXBulNfxdKgOpoo/edit#gid=0
+
+![image](https://github.com/riverscuomo/public-bug-hunt/assets/24362267/8d6b99d7-3b82-40ae-8833-4283eb69615c)
 
 
 
